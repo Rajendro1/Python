@@ -20,19 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd17fb43-54c9-4ef6-be1c-28d69346b06a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Game Development.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web Development/Flask/flaskblog/static/profile_pics/0442061300c35fdd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web Development/Flask/flaskblog/static/profile_pics/672d858beab12675.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web Development/Flask/flaskblog/static/profile_pics/bugati.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AI/Jarvis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI/Jarvis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web Development/Flask/flaskblog/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Web Development/Flask/flaskblog/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web Development/Flask/flaskblog/site.db" beforeDir="false" afterPath="$PROJECT_DIR$/../Web Development/Flask/flaskblog/site.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web Development/Flask/flaskblog/static/profile_pcs/bugati.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Web Development/Flask/flaskblog/static/profile_pics/27ec7250f208639e.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +96,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -119,22 +109,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="351" y="0" key="#Space_Shooting_Game/0.0.1280.680@0.0.1280.680" timestamp="1591960972367" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1591961004865">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1591962072749">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591961004865" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1591961004865">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591962072749" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1591962072749">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591961004865" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1591961004865">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591962072749" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1591962072749">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591961004865" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1591961004865">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591962072749" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1591962072749">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591961004865" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591962072749" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1591961460872">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
